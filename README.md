@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raghav-pathak/LEETCODE/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/raghav-pathak/LEETCODE/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
