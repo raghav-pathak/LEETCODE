@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/raghav-pathak/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/raghav-pathak/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raghav-pathak/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/raghav-pathak/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/raghav-pathak/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/raghav-pathak/LEETCODE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
