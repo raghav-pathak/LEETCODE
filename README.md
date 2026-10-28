@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghav-pathak/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/raghav-pathak/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghav-pathak/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raghav-pathak/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
