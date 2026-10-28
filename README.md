@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/raghav-pathak/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghav-pathak/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raghav-pathak/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghav-pathak/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
