@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0509-fibonacci-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav-pathak/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raghav-pathak/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghav-pathak/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/raghav-pathak/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raghav-pathak/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
