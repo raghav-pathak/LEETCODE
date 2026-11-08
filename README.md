@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raghav-pathak/LEETCODE/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/raghav-pathak/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raghav-pathak/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav-pathak/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raghav-pathak/LEETCODE/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/raghav-pathak/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raghav-pathak/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav-pathak/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghav-pathak/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raghav-pathak/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raghav-pathak/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raghav-pathak/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/raghav-pathak/LEETCODE/tree/master/1882-process-tasks-using-servers) |
@@ -194,11 +197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raghav-pathak/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav-pathak/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raghav-pathak/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav-pathak/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/raghav-pathak/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
@@ -213,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raghav-pathak/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/raghav-pathak/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
