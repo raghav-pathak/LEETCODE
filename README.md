@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raghav-pathak/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/raghav-pathak/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghav-pathak/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghav-pathak/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghav-pathak/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/raghav-pathak/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
