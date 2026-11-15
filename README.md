@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0509-fibonacci-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/raghav-pathak/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghav-pathak/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raghav-pathak/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/raghav-pathak/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/raghav-pathak/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/raghav-pathak/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghav-pathak/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raghav-pathak/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raghav-pathak/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/raghav-pathak/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/raghav-pathak/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/raghav-pathak/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raghav-pathak/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghav-pathak/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raghav-pathak/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/raghav-pathak/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghav-pathak/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/raghav-pathak/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghav-pathak/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
